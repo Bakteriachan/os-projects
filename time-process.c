@@ -1,3 +1,7 @@
+/*
+* Count the total time a process takes to execute
+* using shared memory to comunicate between process
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/mman.h>
